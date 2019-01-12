@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,6 @@ Le Ngoc Thuan
 
 Nguyen Hoang Phuoc
 
+=======
+Hoang dep trai
+>>>>>>> hoangez
