@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-
-
-
-Ha Minh Hau
-
-Le Cao Anh
-
-
-Le Ngoc Thuan
-
-
-Nguyen Hoang Phuoc
-
-=======
-Hoang dep trai
->>>>>>> hoangez
+4. Le Cao Anh + A
